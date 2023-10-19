@@ -1,0 +1,6 @@
+{
+    "authUrl": "/api/auth/",
+    "apiHost": "127.0.0.1",
+    "apiPort": "8080",
+    "api": "/api/auth/"
+}
